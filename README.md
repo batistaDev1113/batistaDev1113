@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div>Icons made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<img src="https://img.icons8.com/dusk/64/000000/developer.png"/>
 
 - 🔭 I’m currently working on ... React
 - 🌱 I’m currently learning ... React, Node and TypeScript
