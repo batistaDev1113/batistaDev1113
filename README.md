@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.icons8.com/dusk/64/000000/developer.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/developer.png"/>  <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/>
 
 - 🔭 I’m currently working on ... React
 - 🌱 I’m currently learning ... React, Node and TypeScript
