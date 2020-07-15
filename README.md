@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.icons8.com/dusk/64/000000/developer.png"/>  <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/>. <img src="https://img.icons8.com/dusk/64/000000/html-5.png"/>. <img src="https://img.icons8.com/dusk/64/000000/css3.png"/>. <img src="https://img.icons8.com/dusk/64/000000/react.png"/>.  <img src="https://img.icons8.com/dusk/64/000000/web.png"/>.  <img src="https://img.icons8.com/dusk/64/000000/api.png"/>.  <img src="https://img.icons8.com/dusk/64/000000/cafe.png"/>   
+<img src="https://img.icons8.com/dusk/64/000000/developer.png"/>  <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/> <img src="https://img.icons8.com/dusk/64/000000/html-5.png"/> <img src="https://img.icons8.com/dusk/64/000000/css3.png"/> <img src="https://img.icons8.com/dusk/64/000000/react.png"/>  <img src="https://img.icons8.com/dusk/64/000000/web.png"/>  <img src="https://img.icons8.com/dusk/64/000000/api.png"/>  <img src="https://img.icons8.com/dusk/64/000000/cafe.png"/>   
 
 - 🔭 I’m currently working on ... React
 - 🌱 I’m currently learning ... React, Node and TypeScript
