@@ -13,6 +13,4 @@
  
  ![Yunior's GitHub stats](https://github-readme-stats.vercel.app/api?username=batistaDev1113&show_icons=true&theme=radical)
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=batistaDev1113&repo=giphy-loader)](https://github.com/batistaDev1113/giphy-loader)
- 
 
