@@ -12,5 +12,5 @@
  🎣  &nbsp;&nbsp;&nbsp;&nbsp;Fun fact: ... I love fishing and working out<br /><br />
  
  ![Yunior's GitHub stats](https://github-readme-stats.vercel.app/api?username=batistaDev1113&show_icons=true&theme=dracula)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batistaDev1113&layout=compact)](https://github.com/batistaDev1113/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batistaDev1113&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
