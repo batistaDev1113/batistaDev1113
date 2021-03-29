@@ -11,5 +11,5 @@
  😄  &nbsp;&nbsp;&nbsp;&nbsp;Pronouns: ... I/ME the Developer<br /><br />
  🎣  &nbsp;&nbsp;&nbsp;&nbsp;Fun fact: ... I love fishing and working out<br /><br />
  
- ![Yunior's GitHub stats](https://github-readme-stats.vercel.app/api?username=batistaDev1113&show_icons=true&theme=radical)
+ ![Yunior's GitHub stats](https://github-readme-stats.vercel.app/api?username=batistaDev1113&show_icons=true&theme=dracula)
 
