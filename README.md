@@ -1,6 +1,7 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/batistaDev1113"><img src="https://api.daily.dev/devcards/7edbffc5e96d42ef8f8be23c34c114a0.png?r=9fg" width="400" alt="Yunior Batista's Dev Card"/></a>
 
-<img src="https://img.icons8.com/dusk/64/000000/developer.png"/>  <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/> <img src="https://img.icons8.com/dusk/64/000000/html-5.png"/> <img src="https://img.icons8.com/dusk/64/000000/css3.png"/> <img src="https://img.icons8.com/dusk/64/000000/react.png"/>  <img src="https://img.icons8.com/dusk/64/000000/web.png"/>  <img src="https://img.icons8.com/dusk/64/000000/api.png"/>  <img src="https://img.icons8.com/dusk/64/000000/cafe.png"/>   
+<img src="https://img.icons8.com/dusk/64/000000/developer.png"/>  <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/> <img src="https://img.icons8.com/dusk/64/000000/html-5.png"/> <img src="https://img.icons8.com/dusk/64/000000/css3.png"/> <img src="https://img.icons8.com/dusk/64/000000/react.png"/>  <img src="https://img.icons8.com/dusk/64/000000/web.png"/>  <img src="https://img.icons8.com/dusk/64/000000/api.png"/>  <img src="https://img.icons8.com/dusk/64/000000/cafe.png"/>  
 
  🔭  &nbsp;&nbsp;&nbsp;&nbsp;I’m currently working on ... React<br /><br />
  🌱  &nbsp;&nbsp;&nbsp;&nbsp;I’m currently learning ... React, Node and TypeScript<br /><br />
