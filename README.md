@@ -6,7 +6,9 @@
   <a href="https://www.linkedin.com/in/yunior-profile">
    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="linkedi badge" />
   </a>
-  <img align="center" src="https://komarev.com/ghpvc/?username=batistaDev1113&style=flat-square&color=blue" alt="github profile views" />
+  <a href="#">
+    <img align="center" src="https://komarev.com/ghpvc/?username=batistaDev1113&style=flat-square&color=blue" alt="github profile views" />
+  </a>
 </div>
 
  💬  &nbsp;&nbsp;&nbsp;&nbsp;Ask me about ... Anything you would like to know..<br /><br />
