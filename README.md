@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align="center" src="https://github-photos-readme.s3.amazonaws.com/5885787-removebg-preview.png" />
 <div align="center">
   <a href="https://www.linkedin.com/in/yunior-profile">
    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="linkedi badge" />
