@@ -22,6 +22,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40px" height="40px" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" height="40px" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40px" height="40px" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html/html-original.svg" width="40px" height="40px" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original.svg" width="40px" height="40px" />&nbsp;
 </div>
 
  
