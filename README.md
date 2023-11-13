@@ -16,6 +16,11 @@
  😄  &nbsp;&nbsp;&nbsp;&nbsp;Pronouns: ... I/ME the Developer<br /><br />
  🎣  &nbsp;&nbsp;&nbsp;&nbsp;Fun fact: ... I love fishing and working out<br /><br />
 
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+</div>
+
  
 
  
