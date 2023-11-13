@@ -33,6 +33,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40px" height="40px" />&nbsp;
 </div>
 
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=batistaDev1113
+
  
 
  
