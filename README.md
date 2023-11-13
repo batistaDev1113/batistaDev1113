@@ -24,9 +24,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40px" height="40px" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40px" height="40px" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40px" height="40px" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40px" height="40px" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40px" height="40px" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" width="40px" height="40px" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="40px" height="40px" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40px" height="40px" />&nbsp;
 </div>
 
  
