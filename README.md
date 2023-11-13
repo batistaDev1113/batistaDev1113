@@ -1,6 +1,6 @@
 # Hi there 👋, welcome to my Github account.
 
-👱‍♂️ Visit my portfolio: ![Portfolio](https://yuniorbatista.com) 
+👱‍♂️ Visit my portfolio: [Portfolio](https://yuniorbatista.com) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yunior-profile) 
