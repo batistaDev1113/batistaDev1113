@@ -4,7 +4,7 @@
 applications. Currently a technical lead on enterprise software for government workflows —
 the kind where compliance, security and accessibility are requirements, not polish.
 
-Greater Orlando, FL · open to remote · [portfolio](https://yuniorbatista.com) · [résumé](https://yuniorbatista.com/resume)
+Kissimmee, FL · open to remote · [portfolio](https://yuniorbatista.com) · [résumé](https://yuniorbatista.com/resume)
 
 ---
 
