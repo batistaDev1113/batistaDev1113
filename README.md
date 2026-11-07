@@ -1,49 +1,40 @@
 ### Hi, I'm Yunior 👋
 
-**Product-minded software engineer** with 8+ years building accessible, high-performance web
-interfaces. I care about the parts users feel but rarely name: focus order, loading states,
-bundle weight, and components that survive their third redesign.
+**Senior frontend engineer** with 8+ years building accessible, high-performance web
+applications. Currently a technical lead on enterprise software for government workflows —
+the kind where compliance, security and accessibility are requirements, not polish.
 
-Orlando, FL · open to remote · [portfolio](https://yuniorbatista.com) · [résumé](https://yuniorbatista.com/resume)
+Greater Orlando, FL · open to remote · [portfolio](https://yuniorbatista.com) · [résumé](https://yuniorbatista.com/resume)
 
 ---
 
-#### What I'm focused on
+#### Experience
 
-- **Design systems** — tokens, theming, and component APIs that hold up across a whole product.
-- **Accessibility** — keyboard paths, focus management and reduced motion built in, not patched on.
-- **Performance** — Core Web Vitals, render cost, and shipping less JavaScript on purpose.
+**Technical Lead · Software Engineer** — Design Interactive · *Feb 2024 – present, remote*
+Lead an Angular project end to end: architecture, testing strategy, and the frontend patterns
+the team builds on. Also ship modular Vue.js/Vuetify frontends with geospatial OpenLayers
+maps, and full-stack features in C# and Blazor Server.
 
-#### Currently building
+**Software Engineer** — Airship · *2022*
+Five responsive React/Next.js/TypeScript apps. Drove Jest and React Testing Library to ~90%
+coverage, contributing to a 50% reduction in defects.
 
-**[Portfolio](https://yuniorbatista.com)** — my own site, and the closest thing to a working
-sample: a Tailwind v4 design-token system with dark/light theming, an accessible component
-library, a streaming AI résumé assistant, Playwright coverage for the journeys that must not
-break, and CI gates for dependency audit and CodeQL on every pull request.
+**UI Engineer** — Power Home Remodeling · *2020 – 2022*
+Built and documented an internal design system in React/TypeScript, cutting design
+inconsistency by 20%; refactoring work contributed to a 17% quality and performance gain.
 
-#### How I work
+Earlier: frontend at Darden Restaurants (A/B testing, +20% revenue) and Visit Orlando
+(responsive UI, SEO, +30% site visits).
 
-- **Tests come with the work** — Jest and React Testing Library for behaviour, Playwright for
-  the flows a user would notice breaking.
-- **Decisions get written down** — architecture lives in ADRs in the repo, not in someone's
-  memory or a chat thread.
-- **Dependencies are risk** — automated audit gates, deliberate pins and reviewable upgrades
-  instead of blind bumps.
-- **Accessibility is a build target** — keyboard paths, focus order and reduced motion are
-  designed in, and this README's images carry alt text for the same reason.
+#### Skills, by what they're for
 
-#### Toolkit
-
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-  <img alt="Vue" src="https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D">
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white">
-  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white">
-</p>
+| Area | What I use |
+| --- | --- |
+| **Frontend** | TypeScript, React, Next.js, Angular, Vue, Vuetify, Tailwind CSS, SCSS |
+| **Architecture** | Design systems, component libraries, micro-frontends, WCAG accessibility, web performance, OpenLayers |
+| **Quality** | Jest, React Testing Library, testing strategy, code review, Git |
+| **Full stack** | REST APIs, C#, .NET, Blazor Server |
+| **Leadership** | Technical leadership, system design, stakeholder collaboration, technical documentation |
 
 #### Reach me
 
@@ -54,12 +45,11 @@ break, and CI gates for dependency audit and CodeQL on every pull request.
 <!--
 Editing notes
 -------------
-- No project gallery on purpose. The older public repos are 2-11 commits from
-  2023-2025 and unmaintained; linking them invites a click that argues against
-  the rest of the page. Portfolio points at the live site instead, which is
-  kept current. If a second project becomes genuinely maintained, add it here.
-- No third-party stat widgets: the services this profile used to embed now
-  return 402/503/404, and GitHub already renders contributions, followers and
-  achievements natively below the README.
+- Skills are grouped by purpose, not by logo. A badge wall says "I have seen
+  these"; the table and the experience above it say what each one is for.
+- Keep Experience and the resume (yuniorbatista.com/resume) in step - this is a
+  summary of that page, so disagreement between them reads as carelessness.
+- No third-party stat widgets: the ones this profile used to embed now return
+  402/503/404, and GitHub renders contributions and achievements natively.
 - Every image has alt text, because the first paragraph claims accessibility.
 -->
